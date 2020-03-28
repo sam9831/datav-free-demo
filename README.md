@@ -1,24 +1,18 @@
-# datav-free-demo
+# 慕课网《快速入门ECharts4.0开发》源码
 
-## Project setup
+## 快速开始
+
+### 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 构建项目
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
